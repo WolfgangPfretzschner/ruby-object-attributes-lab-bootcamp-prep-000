@@ -8,8 +8,8 @@ class Dog
     @name
   end
 
-  def bread
-    @bread
+  def bread= (bread)
+    @bread = bread
   end
 
 
